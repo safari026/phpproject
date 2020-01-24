@@ -7,7 +7,7 @@ use \vendor\core\Router;
 
 
  $query = rtrim($_SERVER['QUERY_STRING'],'/'); 
-
+ define("DEBUG",1 );
  define('WWW', __DIR__); //указывает на текущую папку public
  define('CORE', dirname(__DIR__) . '/vendor/core'); // заходит в папку core
  define('ROOT', dirname(__DIR__)); // указывает главную папку проекта destroy
@@ -25,6 +25,7 @@ use \vendor\core\Router;
   
   }
  });
+ new \vendor\core\App;
 
  Router::add('^page/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller'=>'Page']); 
  Router::add('^page/(?P<alias>[a-z-]+)$', ['controller'=>'Page', 'action'=>'view']); 

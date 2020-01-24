@@ -14,12 +14,11 @@ class MainController extends AppController {
     // $users= $model->findOne(2);
      //debug($users);
       $data = $model->findBySql("SELECT * FROM {$model->table} ORDER BY id  DESC LIMIT 2");
-      debug($data);
       $title = 'PAGE TITLE';
       $this->set(compact('title','users'));
    }
 }
- 
+
 
 
 

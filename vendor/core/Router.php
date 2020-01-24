@@ -1,16 +1,17 @@
 <?php  
 
 namespace vendor\core;
-ini_set('display_errors',1);
+
 
 class Router{
        //таблица маршрутов
         protected static   $routes =[]; // свойство статично это массив в нем будет содержаться весь массив наших маршрутов по умолчанию их 2. Таблица маршрутов. 
-        protected static   $route = [];  //  свойство статично это массив один маршрут который вызывается по текущему url адресу содержиться папка вид 
+        protected static   $route = [];  //  свойство статично это массив один маршрут который вызывается по текущему url адресу содержиться папка вид
         //добовляем маршрут в таблицу маршрутов
         public static function add($regexp, $route=[]){
              self::$routes[$regexp]= $route; //заполняем массив routes  ключ  $regexp значение $route
-        }
+
+            }
         // метод для получения таблицы маршрутов $routes
         // return array
         public static function getRoutes() 
@@ -53,7 +54,6 @@ class Router{
             $url = self::removeQueryString($url);
             if(self::matchRoute($url)){
             $controller = 'app\controllers\\' . self::$route['controller'] . 'Controller';
-           // debug(self::$route);
             if(class_exists($controller)){
                 $cObj = new $controller(self::$route); // обьект controller
                 $action= self::lowerCamelCase(self::$route['action']) . 'Action';
@@ -61,15 +61,14 @@ class Router{
                     $cObj->$action();
                     $cObj->getView();
                 else:
-                    echo "Метод <b>$controller::$action</b> не найден";
+                   throw new \Exception("Метод <b>$controller::$action</b> не найден",404 );
                 endif;
             } 
             else{
-                echo "Контроллер <b>$controller</b> не найден";
+               throw new \Exception("Контроллер <b>$controller</b> не найден",404 );
             }
             }else{
-                    http_response_code(404);
-                    include '404.html';
+                    throw new \Exception("Страница не найдена",404 ); 
                 }
     }
     
@@ -82,7 +81,7 @@ class Router{
     protected static function lowerCamelCase($name){   
         return lcfirst(self::upperCamelCase($name)); 
     }
-
+ 
     protected static function removeQueryString($url){
         if($url){
              $params= explode('&',$url,2);
@@ -99,3 +98,4 @@ class Router{
 
 
     }
+    

@@ -15,6 +15,7 @@ namespace app\controllers;
        public function testPageAction(){
         echo 'PostsNew::testPage'; 
    }
+ 
 
    public function before(){
     echo 'PostsNew::testPage'; 

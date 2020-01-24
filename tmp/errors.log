@@ -1,0 +1,222 @@
+[2020-01-23 03:28:52] Текст ошибки:Call to undefined function vendor\core\test() | Файл:/home/leoni/hosts/destroy/vendor/core/ErrorHandler.php,  | Строка:70
+=======================================================
+[2020-01-23 03:28:55] Текст ошибки:Call to undefined function vendor\core\test() | Файл:/home/leoni/hosts/destroy/vendor/core/ErrorHandler.php,  | Строка:70
+=======================================================
+[2020-01-23 03:29:56] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 03:29:56] Текст ошибки:include(404.html): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:73
+=======================================================
+[2020-01-23 03:34:42] Текст ошибки:include(404.html): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:73
+=======================================================
+[2020-01-23 03:35:07] Текст ошибки:include(404.html): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:73
+=======================================================
+[2020-01-23 03:43:51] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 03:43:51] Текст ошибки:include(404.html): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:73
+=======================================================
+[2020-01-23 03:47:30] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 03:47:30] Текст ошибки:include(404.html): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:73
+=======================================================
+[2020-01-23 03:53:14] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 03:53:15] Текст ошибки:include(404.html): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:73
+=======================================================
+[2020-01-23 03:53:33] Текст ошибки:include(404.html): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:73
+=======================================================
+[2020-01-23 03:53:50] Текст ошибки:include(404.html): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:73
+=======================================================
+[2020-01-23 03:53:51] Текст ошибки:include(404.html): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:73
+=======================================================
+[2020-01-23 03:59:10] Текст ошибки:Страница не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:76
+=======================================================
+[2020-01-23 03:59:10] Текст ошибки:require(1): failed to open stream: No such file or directory | Файл:/home/leoni/hosts/destroy/vendor/core/ErrorHandler.php,  | Строка:64
+=======================================================
+[2020-01-23 04:01:27] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:76
+=======================================================
+[2020-01-23 04:03:25] Текст ошибки:Метод <b>app\controllers\PageController::indexAction</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:66
+=======================================================
+[2020-01-23 04:03:42] Текст ошибки:Контроллер <b>app\controllers\PostssController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 04:04:23] Текст ошибки:Контроллер <b>app\controllers\PostssController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 04:04:25] Текст ошибки:Контроллер <b>app\controllers\PostssController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 04:04:26] Текст ошибки:Контроллер <b>app\controllers\PostssController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 04:04:27] Текст ошибки:Контроллер <b>app\controllers\PostssController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 04:04:54] Текст ошибки:Контроллер <b>app\controllers\PostssController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 04:04:54] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:76
+=======================================================
+[2020-01-23 04:05:06] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 04:05:06] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:76
+=======================================================
+[2020-01-23 04:09:20] Текст ошибки:Undefined variable: test | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:12
+=======================================================
+[2020-01-23 04:17:26] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 04:20:42] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 04:31:44] Текст ошибки:Class 'app\controllers\NotFoundException' not found | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:21
+=======================================================
+[2020-01-23 04:42:00] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 04:42:21] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 04:42:23] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 04:46:39] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 04:47:31] Текст ошибки:syntax error, unexpected '$users' (T_VARIABLE) | Файл:/home/leoni/hosts/destroy/app/controllers/MainController.php,  | Строка:13
+=======================================================
+[2020-01-23 12:04:36] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 12:04:47] Текст ошибки:Метод <b>app\controllers\PageController::indexAction</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:64
+=======================================================
+[2020-01-23 12:10:04] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 12:10:04] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 12:10:04] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 12:10:18] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 12:10:18] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 12:10:18] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 12:10:18] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 12:10:18] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 12:10:30] Текст ошибки:Метод <b>app\controllers\PostsController::newAction</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:64
+=======================================================
+[2020-01-23 13:27:16] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-23 13:28:31] Текст ошибки:Контроллер <b>app\controllers\KakController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:68
+=======================================================
+[2020-01-24 11:17:21] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:33:53] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:33:53] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:33:53] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:33:53] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:33:54] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:34:43] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:34:43] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:34:43] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:35:35] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:35:35] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:35:35] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:35:35] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:35:35] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:36:09] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:36:09] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:36:09] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:36:09] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 11:36:09] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 12:00:44] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:72
+=======================================================
+[2020-01-24 12:00:44] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:72
+=======================================================
+[2020-01-24 12:00:44] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:72
+=======================================================
+[2020-01-24 12:02:31] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:72
+=======================================================
+[2020-01-24 12:02:34] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:72
+=======================================================
+[2020-01-24 12:31:36] Текст ошибки:Метод <b>app\controllers\PostsController::editAction</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:64
+=======================================================
+[2020-01-24 12:31:56] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 12:31:56] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 12:31:56] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 12:31:56] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:20:12] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:20:24] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:20:24] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:20:24] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:20:25] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:20:25] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:20:29] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:56:31] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:56:31] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:56:31] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:56:42] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 13:58:33] Текст ошибки:syntax error, unexpected 'debug' (T_STRING), expecting function (T_FUNCTION) | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:84
+=======================================================
+[2020-01-24 14:01:33] Текст ошибки:syntax error, unexpected '}', expecting end of file | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:101
+=======================================================
+[2020-01-24 14:01:50] Текст ошибки:syntax error, unexpected '}', expecting end of file | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:101
+=======================================================
+[2020-01-24 14:01:51] Текст ошибки:syntax error, unexpected '}', expecting end of file | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:101
+=======================================================
+[2020-01-24 14:02:34] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:88
+=======================================================
+[2020-01-24 14:02:48] Текст ошибки:syntax error, unexpected '}', expecting end of file | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:101
+=======================================================
+[2020-01-24 14:04:05] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:06:43] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:06:46] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:06:46] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:06:46] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:06:46] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:11:10] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:11:10] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:11:10] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:11:37] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:11:37] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:11:37] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:11:59] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:11:59] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 14:11:59] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================

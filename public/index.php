@@ -27,7 +27,8 @@ use \vendor\core\Router;
  });
  new \vendor\core\App;
 
- Router::add('^page/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller'=>'Page']); 
+ Router::add('^blog/(?P<action>[a-z-]+)/(?P<alias>[a-z-]+)$', ['controller'=>'Page']);
+  
  Router::add('^page/(?P<alias>[a-z-]+)$', ['controller'=>'Page', 'action'=>'view']); 
 
 //defaults roots 

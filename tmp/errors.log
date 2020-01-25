@@ -220,3 +220,25 @@
 =======================================================
 [2020-01-24 14:11:59] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
 =======================================================
+[2020-01-24 22:19:31] Текст ошибки:Страница не найдена | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:71
+=======================================================
+[2020-01-24 22:19:41] Текст ошибки:Контроллер <b>app\controllers\GigkController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:68
+=======================================================
+[2020-01-24 22:21:07] Текст ошибки:Контроллер <b>app\controllers\GigkController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:68
+=======================================================
+[2020-01-24 23:11:27] Текст ошибки:Контроллер <b>app\controllers\GigkController</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:68
+=======================================================
+[2020-01-24 23:11:42] Текст ошибки:syntax error, unexpected '<', expecting end of file | Файл:/home/leoni/hosts/destroy/app/models/UserModel.php,  | Строка:2
+=======================================================
+[2020-01-24 23:14:44] Текст ошибки:Class 'vendor\core\base\QueryBuilder' not found | Файл:/home/leoni/hosts/destroy/app/models/UserModel.php,  | Строка:6
+=======================================================
+[2020-01-24 23:17:17] Текст ошибки:Class 'vendor\core\base\QueryBuilder' not found | Файл:/home/leoni/hosts/destroy/app/models/UserModel.php,  | Строка:7
+=======================================================
+[2020-01-24 23:17:53] Текст ошибки:SQLSTATE[HY000] [1049] Unknown database 'example' | Файл:/home/leoni/hosts/destroy/vendor/core/base/QueryBuilder.php,  | Строка:26
+=======================================================
+[2020-01-24 23:18:58] Текст ошибки:SQLSTATE[HY000] [1049] Unknown database 'example' | Файл:/home/leoni/hosts/destroy/vendor/core/base/QueryBuilder.php,  | Строка:26
+=======================================================
+[2020-01-24 23:25:13] Текст ошибки:Метод <b>app\controllers\MainController::aboutAction</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:64
+=======================================================
+[2020-01-24 23:25:25] Текст ошибки:Метод <b>app\controllers\MainController::aboutAction</b> не найден | Файл:/home/leoni/hosts/destroy/vendor/core/Router.php,  | Строка:64
+=======================================================

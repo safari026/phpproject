@@ -47,7 +47,6 @@ class ErrorHandler { // класс обработки ошибок
 
 
     public function exceptionHandler($e){ // метод обработки исключение в качестве param принимает обьект нашего исключения
-        debug($e);
         $this->logErrors($e->getMessage(),$e->getFile(),$e->getLine());
         $this->displayError('Исключение', $e->getMessage(), $e->getFile(), $e->getLine(), $e->getCode());
        
